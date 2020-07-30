@@ -1,0 +1,4 @@
+Modified to:
+1) Run offline
+                and
+2) Run directly on desktop(windows) with webview
