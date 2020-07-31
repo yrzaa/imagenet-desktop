@@ -1,4 +1,4 @@
 @ECHO OFF
-conda activate base
+call conda activate base
 python appd.py
 PAUSE
