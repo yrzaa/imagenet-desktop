@@ -9,4 +9,4 @@ install requirements.txt
 OR Use run.bat if you use conda
 
 # What does this do?
-Runs a desktop application for image classification with flask backend.
+Runs a desktop application for image classification(using mobilenetv2) with flask backend.
