@@ -9,5 +9,4 @@ install requirements.txt
 OR Use run.bat if you use conda
 
 # What does this do?
-Runs a desktop application for text classification with flask backend.
-Uses a tf2 model with tf hub, trained on imdb database to classify reviews as positive or negative.
+Runs a desktop application for image classification(using mobilenetv2) with flask backend.
