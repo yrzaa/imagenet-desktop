@@ -10,3 +10,7 @@ OR Use run.bat if you use conda
 
 # What does this do?
 Runs a desktop application for image classification(using mobilenetv2) with flask backend.
+
+# Screenshots
+![Screenshot 1](screen1.png)
+![Screenshot 2](screen2.png)
