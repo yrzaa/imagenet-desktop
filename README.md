@@ -13,4 +13,6 @@ Runs a desktop application for image classification(using mobilenetv2) with flas
 
 # Screenshots
 ![Screenshot 1](screen1.png)
+
+
 ![Screenshot 2](screen2.png)
